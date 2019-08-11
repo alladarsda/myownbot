@@ -1,1 +1,1 @@
-# myownbot
+PERSONAL BOT
